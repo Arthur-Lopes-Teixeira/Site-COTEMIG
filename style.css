@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    background-image: url(fundo\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 0%;
+    text-align: center;
+}
+
+table{
+    vertical-align: auto;
+    width: 100%;
+}
+
+tr, td{
+    width: 20%;
+}
+
+#google{
+    height: 20px;
+    width: 40px;
+}
+
+.Sla{
+    max-width: 270px;
+    padding-left: 5%;
+    border: 0%;
+}
+
+.LOGO{  
+    text-align: left;
+    background-size: cover;
+}
+
+#Cordefundo1{
+    background-color: rgba(255, 77, 202, 0.637);
+}
+
+.Cabeçalho {
+    border: 0%;
+    padding: 0%;
+}
+
+#negrito{
+
+    font-weight: bold;
+    color: white;
+
+}
+
+.verde{
+    background-color: #89F668;
+}
+
+.dav{
+    column-count: 3;
+}
+
+.tsc1{
+    color: greenyellow;
+}
+
+.background{
+    background-color: #430B6E;
+}
+
+.roxin{
+    background-color: #5B1078;
+}
+
+.tamai{
+    max-width: 450px;
+}
+
+.oreo{
+    text-align: justify;
+}
+
+.branco{
+    color: white;
+}
